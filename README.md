@@ -1,4 +1,6 @@
-![logo](https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devicon/devicon-original.svg" width="120"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Aryan Jadhav</h1>
 <h3 align="center">🚀 DevOps Engineer | Cloud & Automation Enthusiast</h3>
